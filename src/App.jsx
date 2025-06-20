@@ -21,7 +21,7 @@ function App() {
         </div>
         <div className="header-illustration">
           {/* Replace with your own SVG/illustration if desired */}
-          <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsb2ZmaWNlMTVfYWJzdHJhY3RfbGluZV9kcmF3aW5nX29mX3NpbGhvdWV0dGVfc2hhcGVfb2ZfYV8xMTliYWUxNS0zM2I2LTQ4OGEtYWM2Yi1jZjJhYjMxZDc3ODVfMS5wbmc.png" alt="Profile" />
+          <img src="https://cdn-icons-png.flaticon.com/512/8858/8858758.png" alt="Profile" />
         </div>
       </div>
 
